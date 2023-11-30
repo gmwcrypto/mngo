@@ -22,3 +22,4 @@ mod HelloStarknet {
 }
 strktest
 teststrk2
+strktestcommitfinal
