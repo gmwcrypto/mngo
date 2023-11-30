@@ -20,3 +20,4 @@ mod HelloStarknet {
     }
 
 }
+strktest
