@@ -21,3 +21,4 @@ mod HelloStarknet {
 
 }
 strktest
+teststrk2
